@@ -196,7 +196,7 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 
 **Access Your Deployed Application:** To interact with your deployed application, Visit the URL provided by the hosting platform.
 
-For comprehensive deployment guidelines tailored to your selected hosting service, consult their official documentation. Experience the deployed [version](https://coral-maurita-35.tiiny.site) of the Telecom Churn Prediction project!
+For comprehensive deployment guidelines tailored to your selected hosting service, consult their official documentation. 
 
 
 ### Dataset Usage:
