@@ -84,12 +84,10 @@ Explore profound insights and analytics gleaned from our extensive dataset. Unco
 | Feature                                      | Visualization                                                                                       |
 |----------------------------------------------|-----------------------------------------------------------------------------------------------------|
 | Categorical Features                         | ![Categorical Features](https://github.com/hanuyadav40/Customer-Segmentation/blob/main/assets/catg_features.png)   |
-| Churn Target Variable                        | ![Churn Target Variable](https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction/assets/143819712/681e2805-d61e-4d56-be55-fa0495a5bfd5)  |
-| Customer Information                         | ![Customer Information](https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction/assets/143819712/234d902f-f514-4d2f-b28a-6d5813c67909)   |
-| Distribution Analysis                        | ![Distribution Analysis](https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction/assets/143819712/e72dbd50-9c94-4c44-bf89-1b3baa090a64)   |
-| Mean Tenure                                  | ![Mean Tenure](https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction/assets/143819712/0f8feb7e-d723-4061-beb6-62275d6a54b9)         |
-| Churn Tenure Analysis                        | ![Screenshot](https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction/assets/143819712/5942dbb4-47c7-467e-a075-14dc47ca7572)          |
-
+| Churn Target Variable                        | ![Churn Target Variable](https://github.com/hanuyadav40/Customer-Segmentation/blob/main/assets/churn_target_variable.png)  |
+| Customer Information                         | ![Customer Information](https://github.com/hanuyadav40/Customer-Segmentation/blob/main/assets/cust_info.png)   |
+| Distribution Analysis                        | ![Distribution Analysis](https://github.com/hanuyadav40/Customer-Segmentation/blob/main/assets/distbn.png)   |
+| Mean Tenure                                  | ![Mean Tenure](https://github.com/hanuyadav40/Customer-Segmentation/blob/main/assets/mean_tenure.png)         |
 
 ---
 
@@ -99,24 +97,13 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 
 | Overview and Key Metrics | Attrition Insights |
 |---------------|-------------|
-| ![Overview](https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction/assets/143819712/18855f1b-fefe-4317-bede-fb8219d67e9f) | ![detailed_insights](https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction/assets/143819712/7c068b03-4cdb-4659-b3e3-c15dc481cd59) |
+| ![Overview](https://github.com/hanuyadav40/Customer-Segmentation/blob/main/assets/overview.jpg) | ![detailed_insights](https://github.com/hanuyadav40/Customer-Segmentation/blob/main/assets/detailed_insights.jpg) |
 | Gain a high-level view of customer churn trends, contract preferences, and revenue impact. This interactive dashboard provides insights into overall churn metrics and key business indicators. | Explore detailed analytics on customer segments, service usage patterns, and churn predictors. This visualization offers a deeper dive into specific data points and trends influencing churn decisions. |
 
 
 
 
 
-
-<p align="center">
-  <a href="https://app.powerbi.com/links/t0l3Kk1rqd?ctid=a2e8c89e-7534-4ccf-b1fa-00c12005cb9d&pbi_source=linkShare">
-    <img src="https://img.shields.io/badge/Power%20BI-Live%20Dashboard-gold?style=for-the-badge&logo=powerbi" alt="Power BI Dashboard">
-  </a>
-</p>
-
-
-*Explore the live Power BI dashboard for real-time insights, dynamic data visualization, and comprehensive analytics. Gain actionable intelligence to drive informed decision-making and optimize business performance.*
-
----
 
 ## Key Findings
 
@@ -145,8 +132,8 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 - **Clone the Repository**
 
   ```` 
-   git clone https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction.git
-   cd Telecom-Customer-Churn-Prediction
+   git clone https://github.com/hanuyadav40/Customer-Segmentation.git
+   cd Customer-Segmentation
    ````
 
 - Install the project dependencies by running the following command
@@ -188,10 +175,6 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 
 **Upon accessing the interface, you'll encounter a user-friendly web application. Take time to familiarize yourself with its features and explore the various options available for predicting outcomes.**
 
-
-| Details | Prediction |
-|---------|---------|
-| ![Image 1](https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction-ML-PowerBI/assets/143819712/9666462b-b639-4ba4-8739-ad43b9ae80f5) | ![Image 2](https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction-ML-PowerBI/assets/143819712/25373380-8e11-4b4e-9673-651b0dd90f90) |
 
 
 
